@@ -1,0 +1,297 @@
+{
+  "en": {
+    "name.logo-first": "Isa",
+    "surname.logo-last": "Dagestani",
+
+    "nav_about": "About",
+    "nav_projects": "Projects",
+    "nav_media": "Media",
+    "nav_contact": "Contact",
+
+    "hero.name": "Isa",
+    "hero.surname": "Dagestani",
+    "hero.subtitle": "A visionary building global <span class='accent-text'>products for millions.</span>",
+
+    "hero.tag1": "IT Entrepreneur",
+    "hero.tag2": "Founder of UMMA Life",
+    "hero.tag3": "Building the future for the Ummah",
+
+    "hero.card.title1": "Shaping the digital future of the",
+    "hero.card.title2": "Muslim world",
+    "hero.card.text": "Creating platforms powered by truth, connection and freedom. My mission is to give the Ummah tools that inspire growth and unity.",
+
+    "about.pretitle": "About us",
+    "about.title": "More than",
+    "about.titledecor": "just IT",
+
+    "about.card-1.title": "Where it all began",
+    "about.card-1.text": "I grew up in Dagestan, in the city of Khasavyurt. These values shaped my worldview and became the foundation of my projects. For the last 12 years Türkiye has been my second home, where ideas turn into global products.",
+
+    "about.card-2.title": "A technical path that led to leadership",
+    "about.card-2.text": "Years of experience as a system engineer, programmer and Big Data specialist gave me the tools to build, not just dream. Today, as a founder and CEO, I create an ecosystem of products transforming the digital life of the global Muslim community.",
+
+    "about.card-3.title": "A mission larger than a product",
+    "about.card-3.text": "In a world full of noise and censorship, I build platforms based on truth and freedom of speech. My mission is to empower the Ummah with tools for connection, education and unity. I personally invested in Umma Life from day one because I believe in it with all my heart.",
+
+    "projects.pretitle": "My Projects",
+    "projects.title": "Projects",
+
+    "projects.card1.title": "Umma Life",
+    "projects.card1.subtitle": "A global social network for Muslims",
+    "projects.card1.descr": "A platform built on freedom, truth and community. Designed for communication, learning and growth within the Ummah.",
+    "projects.card1.list1": "No censorship",
+    "projects.card1.list2": "Only truth",
+    "projects.card1.list3": "One Ummah, one network",
+    "projects.card1.visit": "Visit ummalife.com",
+    "projects.card1.download": "Download the app",
+
+    "projects.card2.title": "Umma Projects Ecosystem",
+    "projects.card2.subtitle": "Beyond one platform",
+    "projects.card2.descr": "An ecosystem of products supporting the Muslim community worldwide, from media to education.",
+    "projects.card2.link": "@ummaprojects",
+
+    "media.pretitle": "Media",
+    "media.title": "In the Media",
+    "media.tab-1": "YouTube interview: ALIF TV",
+    "media.tab-2": "World Blockchain Summit 2023",
+    "media.tab-3": "Mention from Azon Global",
+    "media.caption-1": "The Development and Future of UMMA LIFE",
+    "media.caption-2": "UMMA LIFE — Islamic network for everyone",
+    "media.caption-3": "Q&A about UMMA LIFE",
+    "media.caption-4": "Ecosystem of UMMA Life",
+    "media.caption-5": "Security in UMMA LIFE",
+    "media.caption-6": "UMMA LIFE on the podcast “После намаза”",
+    "media.caption-7": "Earning with UMMA TOKEN",
+    "media.caption-8": "UMMA LIFE at Halal Expo 2023",
+
+    "faq.title": "faq",
+    "q1": "What is Umma Life?",
+    "a1": "Umma Life is a global social network for Muslims, built around truth, freedom of speech and community connection. It focuses on communication, learning and growth within the Ummah.",
+
+    "q2": "What other projects are part of the Umma ecosystem?",
+    "a2": "The Umma ecosystem is a comprehensive set of platforms and projects designed to integrate finance, technology, and community. While the core focus is often on Umma Network, the ecosystem is expanding to include several key projects that build upon its decentralized foundation.",
+
+    "q3": "Where is Isa Dagestani based?",
+    "a3": "Dubai, UAE (a major hub for Islamic finance and crypto adoption).European or Asian technological centers.Virtual Presence: Crucially, the Umma ecosystem itself is a decentralized project. This means its core Umma Network infrastructure does not have a single physical headquarters. The project operates globally, driven by its community and smart contract",
+
+    "q4": "Does Isa personally invest in his projects?",
+    "a4": "Yes, the principal individuals and founders behind the Umma ecosystem, including Isa Dagestani, are strongly committed to the long-term success of the projects and are known to be significant investors in them. Why Founder Investment Matters (Proof of Confidence): Strong Commitment (Skin in the Game): When founders personally invest, it signals deep confidence in the project's longevity and viability. This is a crucial factor for attracting other institutional investors and building community trust in the Umma ecosystem.Alignment with Community: By investing their own resources and Umma tokens, the founders' financial interests are directly aligned with the interests of the entire community and all token holders. Their success is tied to the platform's success.Long-Term Vision: Personal investment supports the project roadmap and helps ensure that strategic decisions are made with a focus on long-term growth and stability, rather than short-term gains.In the decentralized finance (DeFi) world, the personal involvement and investment of the leadership are vital trust signals that help validate the project's integrity and future potential.",
+
+    "q5": "How can I contact Isa for collaboration or partnership?",
+    "a5": "For partnership inquiries, collaboration opportunities, or direct communication with the principal figures behind the Umma ecosystem, including Isa Dagestani, it is highly recommended to use the official communication channels established by the project.This ensures that your proposal is professionally reviewed by the appropriate team and documented through the correct channels. Recommended Contact Methods: Official Partnership Form: The most effective way is typically through the dedicated Partnership or Collaboration Form available on the main Umma website. This ensures all necessary details about your proposal are gathered upfront. Business Development Email: Use the official email address designated for business inquiries and partnerships (e.g., partnerships@ummanetwork.io or bd@umma.finance). This is often monitored by the Business Development team. Official Social Channels: For general contact, you can reach out via official platforms like LinkedIn or Twitter (X), ensuring you message the official verified account of the Umma project or the founder (if publicly listed). Important Note: For security and verification purposes, avoid using unofficial personal emails or direct messages to unverified accounts. Always rely on the contact information explicitly provided on the official Umma ecosystem website or documentation.",
+    
+    
+    "name.logo-first": "Isa",
+    "surname.logo-last": "Dagestani",
+
+    "footer.social-desc-1": "Building meaningful digital products for a stronger global Ummah.",
+    "footer.social-desc-2": "Creating secure, scalable and purpose-driven technology for millions of users.",
+    "footer.social-desc-3": "Innovation with purpose. Impact at scale.",
+
+    "footer.logo-first": "Isa",
+    "footer.logo-last": "Dagestani",
+
+    "footer.menu.about": "About",
+    "footer.menu.projects": "Projects",
+    "footer.menu.media": "Media",
+    "footer.menu.contact": "Contact",
+    "footer.menu.privacy": "Privacy policy",
+    "footer.menu.terms": "Terms & Conditions",
+
+    "footer.contact-btn": "Contact us",
+    "footer.bg-title": "Isa Dagestani"
+  },
+
+  "ru": {
+    "name.logo-first": "Иса",
+    "surname.logo-last": "Дагестани",
+
+    "nav_about": "О нас",
+    "nav_projects": "Проекты",
+    "nav_media": "Медиа",
+    "nav_contact": "Контакты",
+
+    "hero.name": "Иса",
+    "hero.surname": "Дагестани",
+    "hero.subtitle": "Визионер, создающий глобальные <span class='accent-text'>продукты для миллионов.</span>",
+    "hero.tag1": "IT-предприниматель",
+    "hero.tag2": "Основатель UMMA Life",
+    "hero.tag3": "Создаю будущее для уммы",
+
+    "hero.card.title1": "Формируя цифровое будущее",
+    "hero.card.title2": "мусульманского мира",
+    "hero.card.text": "Создаю платформы, основанные на правде, свободе и единстве. Моя миссия — дать умме инструменты для роста и развития.",
+
+    "about.pretitle": "О нас",
+    "about.title": "Больше чем",
+    "about.titledecor": "просто айти",
+
+    "about.card-1.title": "С чего всё началось",
+    "about.card-1.text": "Я вырос в Дагестане, в городе Хасавюрт. Эти ценности сформировали мой взгляд и стали основой моих проектов. Последние 12 лет Турция стала моим вторым домом, где идеи становятся глобальными продуктами.",
+
+    "about.card-2.title": "Технический путь, который привел к лидерству",
+    "about.card-2.text": "Годы опыта в качестве системного инженера, программиста и специалиста по большим данным дали мне инструменты для создания, а не только для мечты. Сегодня, как основатель и генеральный директор, я создаю экосистему продуктов, трансформирующих цифровую жизнь глобального мусульманского сообщества.",
+
+    "about.card-3.title": "Миссия больше, чем продукт",
+    "about.card-3.text": "В мире, полном шума и цензуры, я создаю платформы, основанные на правде и свободе слова. Моя миссия - наделить Умму инструментами для связи, образования и единства. Я лично инвестировал в Umma Life с первого дня, потому что верю в это всем сердцем.",
+
+    "projects.pretitle": "Мои проекты",
+    "projects.title": "Проекты",
+
+    "projects.card1.title": "Umma Life",
+    "projects.card1.subtitle": "Глобальная социальная сеть для мусульман",
+    "projects.card1.descr": "Платформа, основанная на свободе, правде и сообществе.",
+    "projects.card1.list1": "Без цензуры",
+    "projects.card1.list2": "Только правда",
+    "projects.card1.list3": "Одна умма — одна сеть",
+    "projects.card1.visit": "Посетите ummalife.com",
+    "projects.card1.download": "Скачать приложение",
+
+    "projects.card2.title": "Экосистема Umma Projects",
+    "projects.card2.subtitle": "Больше чем одна платформа",
+    "projects.card2.descr": "Экосистема продуктов, поддерживающих мусульманское сообщество по всему миру.",
+    "projects.card2.link": "@ummaprojects",
+
+    "media.pretitle": "Медиа",
+    "media.title": "медиа",
+    "media.caption-1": "Путь развития и планы UMMA LIFE",
+    "media.caption-2": "Исламская соцсеть UMMA LIFE для всех",
+    "media.caption-3": "Вопрос-ответ об UMMA LIFE",
+    "media.caption-4": "ЭКОсистема Umma Life",
+    "media.caption-5": "Безопасность в UMMA LIFE",
+    "media.caption-6": "UMMA LIFE в подкасте «После намаза»",
+    "media.caption-7": "Заработок с UMMA TOKEN",
+    "media.caption-8": "UMMA LIFE на Halal Expo 2023",
+
+    "faq.title": "Часто задаваемые вопросы",
+    "q1": "Что такое Umma Life?",
+    "a1": "Umma Life — глобальная социальная сеть для мусульман, основанная на правде, свободе слова и общении.",
+
+    "q2": "Какие проекты входят в экосистему Umma?",
+    "a2": "Экосистема Umma — это набор платформ, соединяющих технологии, финансы и сообщество.",
+
+    "q3": "Где находится Иса Дагестани?",
+    "a3": "Дубай, ОАЭ (крупный центр исламского финансирования и внедрения криптовалют). Европейские или азиатские технологические центры Виртуальное присутствие: Важно отметить, что экосистема Umma сама по себе является децентрализованным проектом. Это означает, что ее основная инфраструктура Umma Network не имеет единого физического центра управления. Проект работает по всему миру, опираясь на свое сообщество и смарт-контракты",
+
+    "q4": "Иса лично инвестирует в свои проекты?",
+    "a4": "Да, основные лица и основатели экосистемы Umma, в том числе Иса Дагестани, твердо привержены долгосрочному успеху проектов и известны как значительные инвесторы в них. Почему инвестиции основателей имеют значение (доказательство уверенности): Сильная приверженность (личное участие): когда основатели лично инвестируют, это сигнализирует об их глубокой уверенности в долговечности и жизнеспособности проекта. Это важный фактор для привлечения других институциональных инвесторов и укрепления доверия сообщества к экосистеме Umma. Согласованность с сообществом: инвестируя свои собственные ресурсы и токены Umma, финансовые интересы основателей напрямую согласуются с интересами всего сообщества и всех держателей токенов. Их успех связан с успехом платформы. Долгосрочная перспектива: личные инвестиции поддерживают дорожную карту проекта и помогают обеспечить принятие стратегических решений с акцентом на долгосрочный рост и стабильность, а не на краткосрочную выгоду.В мире децентрализованных финансов (DeFi) личное участие и инвестиции руководства являются важными сигналами доверия, которые помогают подтвердить целостность проекта и его будущий потенциал.",
+
+    "q5": "Как я могу связаться с Isa для сотрудничества или партнерства?",
+    "a5": "Для запросов о партнерстве, возможностях сотрудничества или прямой связи с ключевыми фигурами экосистемы Umma, включая Ису Дагестани, настоятельно рекомендуется использовать официальные каналы связи, установленные проектом.Это гарантирует, что ваше предложение будет профессионально рассмотрено соответствующей командой и задокументировано через правильные каналы. Рекомендуемые способы связи: Официальная форма для партнерства: Наиболее эффективным способом обычно является специальная форма для партнерства или сотрудничества, доступная на главном веб-сайте Umma. Это гарантирует, что все необходимые детали вашего предложения будут собраны заранее.Электронная почта для развития бизнеса: Используйте официальный адрес электронной почты, предназначенный для деловых запросов и партнерства (например, partnerships@ummanetwork.io или bd@umma.finance). Он часто контролируется командой по развитию бизнеса.Официальные социальные сети: для общего контакта вы можете обратиться через официальные платформы, такие как LinkedIn или Twitter (X), убедившись, что вы отправляете сообщение на официальный проверенный аккаунт проекта Umma или его основателя (если он указан публично).Важное примечание: в целях безопасности и проверки избегайте использования неофициальных личных адресов электронной почты или прямых сообщений на непроверенные аккаунты. Всегда полагайтесь на контактную информацию, явно указанную на официальном веб-сайте экосистемы Umma или в документации.",
+
+    "name.logo-first": "Иса",
+    "surname.logo-last": "Дагестани",
+
+    "footer.social-desc-1": "Создание значимых цифровых продуктов для сильной глобальной Уммы.",
+    "footer.social-desc-2": "Разработка безопасных, масштабируемых и целенаправленных технологий для миллионов пользователей.",
+    "footer.social-desc-3": "Инновации с целью. Масштабное влияние.",
+
+    "footer.logo-first": "Иса",
+    "footer.logo-last": "Дагестани",
+
+    "footer.menu.about": "О нас",
+    "footer.menu.projects": "Проекты",
+    "footer.menu.media": "Медиа",
+    "footer.menu.contact": "Контакты",
+    "footer.menu.privacy": "Политика конфиденциальности",
+    "footer.menu.terms": "Условия и положения",
+
+    "footer.contact-btn": "Свяжитесь с нами",
+    "footer.bg-title": "Иса Дагестани"
+
+  },
+  "ar": {
+    "name.logo-first": "عيسى",
+    "surname.logo-last": "داغستاني",
+
+    "nav_about": "من نحن",
+    "nav_projects": "المشاريع",
+    "nav_media": "الإعلام",
+    "nav_contact": "اتصل بنا",
+
+    "hero.name": "عيسى",
+    "hero.surname": "داغستاني",
+    "hero.subtitle": "رؤيوي يخلق عالميًا <span class='accent-text'>لملايين الناس</span>",
+    "hero.tag1": "رائد أعمال في تكنولوجيا المعلومات",
+    "hero.tag2": "مؤسس أمة لايف",
+    "hero.tag3": "نبني المستقبل للأمة",
+
+    "hero.card.title1": "تشكيل المستقبل الرقمي",
+    "hero.card.title2": "العالم الإسلامي",
+    "hero.card.text": "نبني منصات تقوم على الحقيقة، والاتصال، والحرية. مهمتي هي توفير أدوات تُلهم النمو والوحدة داخل الأمة.",
+
+    "about.pretitle": "من نحن",
+    "about.title": "أكثر من مجرد تكنولوجيا",
+    "about.titledecor": "المعلومات",
+
+    "about.card-1.title": "من أين بدأ كل شيء",
+    "about.card-1.text": "نشأتُ في داغستان، في مدينة خاسافيورت. هذه القيم شكّلت رؤيتي للعالم وأصبحت أساس مشاريعي. على مدى 12 عامًا كانت تركيا موطني الثاني حيث تتحول الأفكار إلى منتجات عالمية.",
+
+    "about.card-2.title": "مسار تقني قاد إلى القيادة",
+    "about.card-2.text": "سنوات من الخبرة كمهندس نظم، ومبرمج، وأخصائي بيانات ضخمة منحتني الأدوات اللازمة للبناء وليس الحلم فقط. اليوم، كمؤسس ومدير تنفيذي، أبني منظومة من المنتجات التي تغيّر الحياة الرقمية للمجتمع الإسلامي العالمي.",
+
+    "about.card-3.title": "رسالة تتجاوز المنتج",
+    "about.card-3.text": "في عالم مليء بالضوضاء والرقابة، أبني منصات تعتمد على الحقيقة وحرية التعبير. مهمتي تمكين الأمة بأدوات للتواصل والتعليم والوحدة. لقد استثمرت شخصيًا في Umma Life منذ اليوم الأول لأنني أؤمن به بكل قلبي.",
+
+    "projects.pretitle": "مشاريعي",
+    "projects.title": "المشاريع",
+
+    "projects.card1.title": "Umma Life",
+    "projects.card1.subtitle": "شبكة اجتماعية عالمية للمسلمين",
+    "projects.card1.descr": "منصة مبنية على الحرية، الحقيقة، والمجتمع. مصممة للتواصل والتعلم والنمو داخل الأمة.",
+    "projects.card1.list1": "بدون رقابة",
+    "projects.card1.list2": "الحقيقة فقط",
+    "projects.card1.list3": "أمة واحدة، شبكة واحدة",
+    "projects.card1.visit": "زيارة ummalife.com",
+    "projects.card1.download": "تحميل التطبيق",
+
+    "projects.card2.title": "منظومة Umma Projects",
+    "projects.card2.subtitle": "أبعد من مجرد منصة واحدة",
+    "projects.card2.descr": "منظومة من المنتجات التي تدعم المجتمع الإسلامي حول العالم، من الإعلام إلى التعليم.",
+    "projects.card2.link": "@ummaprojects",
+
+    "media.pretitle": "الإعلام",
+    "media.title": "في وسائل الإعلام",
+    "media.caption-1": "تطور ومستقبل UMMA LIFE",
+    "media.caption-2": "Slide title 2",
+    "media.caption-3": "Slide title 3",
+    "media.caption-4": "نظام UMMA Life البيئي",
+    "media.caption-5": "Slide title 5",
+    "media.caption-6": "Slide title 6",
+    "media.caption-7": "Slide title 7",
+    "media.caption-8": "Slide title 8",
+
+    "faq.title": "الأسئلة المتكررة",
+    "q1": "ما هو Umma Life؟",
+    "a1": "Umma Life هو شبكة اجتماعية عالمية للمسلمين، مبنية على الحقيقة وحرية التعبير وروابط المجتمع. تركّز على التواصل والتعلم والنمو داخل الأمة.",
+
+    "q2": "ما هي المشاريع الأخرى ضمن منظومة Umma؟",
+    "a2": "منظومة Umma هي مجموعة شاملة من المنصات والمشاريع التي تدمج التمويل والتقنية والمجتمع. وبينما يتركز الاهتمام على Umma Network، تتوسع المنظومة لتشمل عدة مشاريع رئيسية مبنية على بنيتها اللامركزية.",
+
+    "q3": "أين يقيم عيسى داغستاني؟",
+    "a3": "دبي، الإمارات العربية المتحدة (مركز رئيسي للتمويل الإسلامي واعتماد العملات الرقمية). حضور أوروبي أو آسيوي. حضور افتراضي: المشروع نفسه لامركزي، ما يعني أنه ليس له مقر رئيسي واحد. تعمل المنظومة عالميًا ويقودها المجتمع والعقود الذكية.",
+
+    "q4": "هل يستثمر عيسى شخصيًا في مشاريعه؟",
+    "a4": "نعم، الأفراد الرئيسيون والمؤسسون في منظومة Umma، بما في ذلك عيسى داغستاني، ملتزمون بشدة بنجاحها طويل الأمد ويُعرفون بأنهم مستثمرون رئيسيون فيها. لماذا الاستثمار الشخصي مهم؟ الالتزام القوي: استثمار المؤسسين دليل ثقة في مستقبل المشروع. تعزيز الثقة: يطمئن المجتمع والمستثمرين بأن الفريق ملتزم فعليًا. رؤية طويلة الأمد: الاستثمار الشخصي يدعم خارطة الطريق ويضمن اتخاذ القرارات التي تركز على النمو المستدام.",
+
+    "q5": "كيف يمكنني التواصل مع عيسى للتعاون أو الشراكة؟",
+    "a5": "للطلبات المتعلقة بالشراكات أو فرص التعاون، يُنصح باستخدام القنوات الرسمية للمنظومة. يشمل ذلك نموذج الشراكات على الموقع الرسمي أو البريد المخصص للأعمال، لضمان مراجعة طلبك بشكل احترافي وتوثيقه عبر القنوات الصحيحة.",
+
+    "footer.social-desc-1": "نبني منتجات رقمية مؤثرة لأمة أقوى.",
+    "footer.social-desc-2": "نبتكر تقنيات آمنة وقابلة للتوسع وهادفة لملايين المستخدمين.",
+    "footer.social-desc-3": "ابتكار هادف. تأثير واسع.",
+
+    "footer.logo-first": "عيسى",
+    "footer.logo-last": "داغستاني",
+
+    "footer.menu.about": "من نحن",
+    "footer.menu.projects": "المشاريع",
+    "footer.menu.media": "الإعلام",
+    "footer.menu.contact": "اتصل بنا",
+    "footer.menu.privacy": "سياسة الخصوصية",
+    "footer.menu.terms": "الشروط والأحكام",
+
+    "footer.contact-btn": "تواصل معنا",
+    "footer.bg-title": "عيسى داغستاني"
+  }
+}
