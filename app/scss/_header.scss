@@ -274,9 +274,8 @@
       z-index: 20;
       transform: translateY(-200%);
       transition: transform .5s;
-      background-color: #232323db;
-      backdrop-filter: blur(14.5px);
-
+      background-color: rgba(35, 35, 35, 0.859);
+      
       &--active {
         transition: transform .5s;
         transform: translateY(0);
